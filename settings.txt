@@ -1,0 +1,6 @@
+twitch account name: botname
+twitch password: password
+twitch channel to join: #channelname
+points name: gold
+random events: no
+points gained per minute: 1
